@@ -12,9 +12,7 @@ O Gerenciador de Tarefas permite ao usuário:
 
 ## Membros do Grupo
 
-- [Nome Completo do Aluno 1]
-- [Nome Completo do Aluno 2]
-- [Nome Completo do Aluno 3]
+- Fabrizio Maia - RM551869
 
 ## Tecnologias Utilizadas
 
